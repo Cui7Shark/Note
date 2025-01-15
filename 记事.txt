@@ -1,0 +1,22 @@
+IT - 816- 冉涛
+\\10.0.0.12 - 软件库
+所用软件
+-TortoiseSVN
+-USBCANFD_周立功CAN盒子
+-winIDEA(x64)9_21_207_159089
+- git
+- TortoiseGit
+- svn
+- vscode
+- notpad++
+- everthing
+- wirshark
+- python3.10.x
+- zcanpro
+- pcan
+- tasking
+- GreenHills
+- isysem 
+
+大家注意一下，下载到公司电脑的pdf要用 福昕阅读器 打开，不然会乱码
+自己的私人文档最好不要在公司电脑上操作，会加密，发到自己电脑上就打不开了
